@@ -62,6 +62,13 @@ permalink: /edu/
 * ENPH 479 Engineering Physics Project II
 * ENPH 459 Engineering Physics Project I
 
-### Teaching Assistantships
+### Recent Awards
 
-* CSC108: Introduction to Computer Programming (UTSG Fall 2018)
+| | | 
+|:---|---:| 
+| Eric Roenitz Memorial Prize | March 2018 |
+| Donald J. Evans Scholarship in Engineering | Nov 2017 |
+| Trek Excellence Scholarship | Sept 2017 |
+| CIHR Computational Biology Undergraduate Health Research Award | May 2017-Aug 2017 |
+| NSERC Undergraduate Student Research Award | Sept 2016-Dec 2016 |
+| UBC Dean's Honour List | 2014,2015,2017,2018 |
