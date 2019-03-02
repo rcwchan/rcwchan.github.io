@@ -2,36 +2,13 @@
 layout: content
 ---
 
-### About
+I am a graduate student in Prof. Michael Hoffman's [lab](https://hoffmanlab.org/) in the Department of Computer Science at the University of Toronto.
 
-It's just one more [jekyll](https://github.com/jekyll/jekyll) theme. Maybe it's has some appearance like a linux console. :)
+### Contact
 
-[Bootstrap](http://getbootstrap.com/) was added to turn responsible. Thanks, [@magnunleno](https://github.com/magnunleno).
-
-### Config file example
+[twitter](https://twitter.com/rachelcwchan); [github](https://github.com/rcwchan); [google scholar](https://scholar.google.ca/citations?user=sN1NTD4AAAAJ)<br>
+rachelchan [at] cs [dot] toronto [dot] edu
 
 ~~~ yml
 # Site settings
-title: "gjuniioor"
-bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
-disqus: gjuniioor
-
-# Header settings
-nick: "gjuniioor"
-mail:
-    domain: "protonmail"
-    ext: "ch"
-source_code:
-    server: "github.com"
-    nick: "gjuniioor"
-blog:
-    server: "wordpress.com"
-    nick: "gjuniioor"
-fingerprint_key: "5E12 9ABC C2A9 564B C048  2DF9 D327 0D10 BC71 CF75"
-
-# Build settings
-markdown: kramdown
-permalink: /:categories/:title/
 ~~~
