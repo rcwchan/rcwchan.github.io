@@ -1,7 +1,7 @@
 # Site settings
 title: "rachel"
 bye_message: 'theme=gildasio/clyell; generator=jekyll; host=github'
-baseurl: "https://rcwchan.github.io/"
+baseurl: "/"
 url: "https://rcwchan.github.io"
 
 # Header settings
