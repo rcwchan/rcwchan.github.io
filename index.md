@@ -7,8 +7,7 @@ I am a graduate student in Prof. Michael Hoffman's [lab](https://hoffmanlab.org/
 ### Contact
 
 [twitter](https://twitter.com/rachelcwchan); [github](https://github.com/rcwchan); [google scholar](https://scholar.google.ca/citations?user=sN1NTD4AAAAJ)<br>
-rachelchan [at] cs [dot] toronto [dot] edu
 
 ~~~ yml
-# Site settings
+rachelchan [at] cs [dot] toronto [dot] edu
 ~~~
