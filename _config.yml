@@ -16,3 +16,5 @@ source_code:
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+plugins:
+  - jekyll-sitemap

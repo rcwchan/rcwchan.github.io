@@ -246,6 +246,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
   jekyll-remote-theme
+  jekyll-sitemap
   tzinfo-data
 
 BUNDLED WITH
