@@ -20,9 +20,9 @@ permalink: /edu/
 
 #### Graduate (UTSG)
 
-* CSC2547: Topics in Statistical Learning Theory (Winter 2019)
-* CSC2506: Probabilistic Learning and Reasoning (Winter 2019)
-* CSC2515: Machine Learning and Data Mining (Fall 2018)
+* CSC 2547 Topics in Statistical Learning Theory (Winter 2019)
+* CSC 2506 Probabilistic Learning and Reasoning (Winter 2019)
+* CSC 2515 Machine Learning and Data Mining (Fall 2018)
 
 #### Undergraduate (UBC)
 
