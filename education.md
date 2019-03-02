@@ -57,8 +57,7 @@ permalink: /edu/
 
 ... and many more!
 
-##### Thesis + Project Courses
-* MATH 448 Directed Studies in Mathematics (1 year)
+##### Project Courses
 * ENPH 479 Engineering Physics Project II
 * ENPH 459 Engineering Physics Project I
 
