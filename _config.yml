@@ -2,7 +2,7 @@
 title: "rachel"
 bye_message: 'theme=gildasio/clyell; generator=jekyll; host=github'
 baseurl: "https://rcwchan.github.io/"
-url: "https://rcwchan.github.io/"
+url: "/"
 
 # Header settings
 nick: "rachel"
