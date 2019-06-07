@@ -1,3 +1,5 @@
+# run this as `jekyll serve --config _config.yml,_config_dev.yml`
+
 # Site settings
 title: "rachel"
 bye_message: 'theme=gildasio/clyell; generator=jekyll; host=github'

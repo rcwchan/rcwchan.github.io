@@ -26,45 +26,62 @@ permalink: /edu/
 
 #### Undergraduate (UBC)
 
-##### Mathematics
+<details><summary><h5 style="display: inline">Mathematics</h5></summary>
 
-* MATH 406 Variational and Approximate Methods in Applied Mathematics
-* MATH 424 Classical Differential Geometry
-* MATH 400 Applied Partial Differential Equations
-* MATH 345 Applied Nonlinear Dynamics and Chaos
-* MATH 322 Introduction to Group Theory
-* MATH 320 Real Analysis I
-* MATH 318 Probability with Physical Applications
-* MATH 307 Applied Linear Algebra
-* MATH 305 Applied Complex Analysis
-* MATH 257 Partial Differential Equations
-* MATH 255 Ordinary Differential Equations
-* MATH 217 Multivariable and Vector Calculus
-* MATH 221 Matrix Algebra
- 
-##### Physics
-* PHYS 408 Optics
-* PHYS 403 Statistical Mechanics
-* PHYS 401 Electromagnetic Theory
-* PHYS 350 Applications of Classical Mechanics
-* PHYS 304 Introduction to Quantum Mechanics
-* PHYS 301 Electricity and Magnetism
+<ul>
+    <li> MATH 406 Variational and Approximate Methods in Applied Mathematics</li>
+    <li> MATH 424 Classical Differential Geometry</li>
+    <li> MATH 400 Applied Partial Differential Equations</li>
+    <li> MATH 345 Applied Nonlinear Dynamics and Chaos</li>
+    <li> MATH 322 Introduction to Group Theory</li>
+    <li> MATH 320 Real Analysis I</li>
+    <li> MATH 318 Probability with Physical Applications</li>
+    <li> MATH 307 Applied Linear Algebra</li>
+    <li> MATH 305 Applied Complex Analysis</li>
+    <li> MATH 257 Partial Differential Equations</li>
+    <li> MATH 255 Ordinary Differential Equations</li>
+    <li> MATH 217 Multivariable and Vector Calculus</li>
+    <li> MATH 221 Matrix Algebra</li>
+</ul>
+</details>
 
-##### Engineering
-* ELEC 341 Systems and Control
-* ELEC 301 Electronic Circuits
-* CPEN 312 Digital Systems and Microcomputers
+<details><summary><h5 style="display: inline">Physics</h5></summary>
 
+<ul>
+    <li> PHYS 408 Optics</li>
+    <li> PHYS 403 Statistical Mechanics</li>
+    <li> PHYS 401 Electromagnetic Theory</li>
+    <li> PHYS 350 Applications of Classical Mechanics</li>
+    <li> PHYS 304 Introduction to Quantum Mechanics</li>
+    <li> PHYS 301 Electricity and Magnetism</li>
+</ul>
+</details>
+
+<details><summary><h5 style="display: inline">Engineering</h5></summary>
+
+<ul>
+    <li> ELEC 341 Systems and Control</li>
+    <li> ELEC 301 Electronic Circuits</li>
+    <li> CPEN 312 Digital Systems and Microcomputers</li>
 ... and many more!
+</ul>
+</details>
 
-##### Project Courses
-* ENPH 479 Engineering Physics Project II
-* ENPH 459 Engineering Physics Project I
+<details><summary><h5 style="display: inline">Project Courses</h5></summary>
+
+<ul>
+    <li> ENPH 479 Engineering Physics Project II</li>
+    <li> ENPH 459 Engineering Physics Project I</li>
+</ul>
+</details>
 
 ### Recent Awards
 
 | | | 
 |:---|---:| 
+| ICML Diversity & Inclusion Fellowship | May 2019 |
+| SGS Conference Grant | May 2019 |
+| NSERC Canada Graduate Scholarships--Master's | May 2019-May 2020 |
 | Eric Roenitz Memorial Prize | March 2018 |
 | Donald J. Evans Scholarship in Engineering | Nov 2017 |
 | Trek Excellence Scholarship | Sept 2017 |
