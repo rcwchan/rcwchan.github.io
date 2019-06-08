@@ -15,7 +15,7 @@ I developed the STROBE used in the following papers with Han Zhang, Pierre-Yves 
 * Pierre-Yves Musso, Pierre Junca, Meghan Jelen, Damian Feldman-Kiss, Han Zhang, **Rachel C. W. Chan**, Michael D. Gordon. [The STROBE: a system for closed-looped optogenetic control of freely feeding flies.](https://doi.org/10.1101/486050), bioRxiv, 2018, 486050.
 
 ### Posters
-"Semi-supervised Learning in Segway." International Conference on Machine Learning, Workshop in Computational Biology. Long Beach, CA. 14--15 June 2019.
+"Semi-supervised Learning in Segway." International Conference on Machine Learning (ICML), Workshop in Computational Biology (WCB). Long Beach, CA. 14--15 June 2019.
 
 ### Presentations
 "Semi-automated genome annotation using Gaussian mixture models and Segway." Canadian Undergraduate Computer Science Conference (CUCSC). Toronto, ON. 15--17 June 2017.
