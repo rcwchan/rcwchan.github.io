@@ -92,6 +92,33 @@ img {
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+  img {
+    float: none;
+    align: middle;
+    width: 85%;
+    margin: 10px;
+  }
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+  img {
+    float: right;
+    width: 40%;
+    margin: 25px;
+  }
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  img {
+    float: right;
+    width: 40%;
+    margin: 25px;
+  }
+}
 iframe {
     width: 750px;
     height: 400px;

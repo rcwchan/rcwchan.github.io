@@ -4,17 +4,27 @@ title: "Education"
 permalink: /edu/
 ---
 
-| | | 
-|-------: | :---| 
-| Legend:&nbsp;| UTSG = University of Toronto, St. George Campus |
-|         | UBC = University of British Columbia, Vancouver Campus |
+<table>
+    <tr>
+        <td style="text-align: right;">Legend:&nbsp;</td>
+        <td style="text-align: left;">UTSG = University of Toronto, St. George Campus</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="text-align: left;">UBC = University of British Columbia, Vancouver Campus</td>
+    </tr>
+</table>
 
 ### Education
 
-| | | 
-| ---:|:--- | 
-| [2018-Now]&nbsp;| MSc Computer Science - UTSG | 
-| [2013-2018]&nbsp;| BASc Engineering Physics with minor in Honours Mathematics - UBC | 
+<table>
+    <tr>
+        <td style="width: 100px; text-align: right;">[2018-Now]&nbsp;</td>
+        <td style="text-align: left;">MSc Computer Science - UTSG</td>
+    </tr>
+        <td style="width: 100px; text-align: right;">[2013-2018]&nbsp;</td>
+        <td style="text-align: left;">BASc Engineering Physics with minor in Honours Mathematics - UBC</td> 
+</table>
 
 ### Select Coursework
 

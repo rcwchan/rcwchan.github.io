@@ -2,13 +2,11 @@
 layout: content
 ---
 
-<img style="float: right; width: 40%; margin:25px" src="images/super_cool_whaleshark.jpg">
+<img src="images/super_cool_whaleshark.jpg">
 
-<p style='text-align: justify;'>
 I am a graduate student in the Department of Computer Science at the University of Toronto.
-I am currently doing research on semi-supervised genome annotation methods in the <a href="https://hoffmanlab.org/">Hoffman lab</a> under the supervision of Prof. Michael Hoffman.</p>
+I am currently doing research on semi-supervised genome annotation methods in the <a href="https://hoffmanlab.org/">Hoffman lab</a> under the supervision of Prof. Michael Hoffman.
 
-<p style='text-align: justify;'>
 My general research interests include (but are not limited to):
 
 <ul>
@@ -17,7 +15,6 @@ My general research interests include (but are not limited to):
     <li>statistical learning theory</li>
     <li>high-performance computing</li>
 </ul>
-</p>
 
 ### Contact
 

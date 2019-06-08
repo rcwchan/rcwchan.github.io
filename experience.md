@@ -4,40 +4,117 @@ title: "Experience"
 permalink: /exp/
 ---
 
-| | | 
-|-------: | :---| 
-| Legend:&nbsp;| UTSG = University of Toronto, St. George Campus |
-|         | UBC = University of British Columbia, Vancouver Campus |
+<table>
+    <tr>
+        <td style="text-align: right;">Legend:&nbsp;</td>
+        <td style="text-align: left;">UTSG = University of Toronto, St. George Campus</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="text-align: left;">UBC = University of British Columbia, Vancouver Campus</td>
+    </tr>
+</table>
 
 ### Research
 
- | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| |
- |-------: | :---|
- | 05/2016-Now:&nbsp;| [Hoffman Research Group](http://www.hoffmanlab.org), UHN + Dept of Medical Biophysics & Computer Science @ UTSG |
- | | Computational genomics research assistant |
- | | |
- | | **Project 1**: Development of new features for both unsupervised and semi-supervised learning in the semi-automated genome annotation (SAGA) method Segway. |
- | | **Project 2**: Development of a new Gaussian mixture model for Segway, allowing modeling of more complicated genomic signal distributions. |
- | | **Project 3**: Development of a novel neural network (LSTM) method for SAGA.|
- | | |
- | | **Keywords**: _high-performance computing, statistics, machine learning, bioinformatics_ |
- | | |
- | 09/2017-12/2017:&nbsp;| [MRI Science Lab](http://mriscience.med.ubc.ca/), Dept of Medicine @ UBC|
- | | Engineering Physics capstone student |
- | | |
- | | Development of a model for myelinated axons in MRI that takes into account the diffusion-mediated effects of water molecules in the brain.|
- | | |
- | | **Keywords**: _computational biophysics, numerical methods_ |
- | | |
- | 09/2016-05/2017:&nbsp;| [Gordon Research Group](http://www.zoology.ubc.ca/~gordon/), Dept of Zoology @ UBC|
- | | Engineering Physics capstone student |
- | | |
- | | Design, development & assembly of the STROBE (Sip-TRiggered Optogenetic Behavior Enclosure) system. The STROBE was created to study the use of optogenetic activation of specific reward or punishment neurons, in order to make flies learn to be more or less attracted to specific food sources. |
- | | |
- | | Awarded the Eric Roenitz Memorial Prize for showing "considerable dedication to the capstone project" and "illustrating a high level of ingenuity."|
- | | |
- | | **Keywords**: _embedded control systems, signal processing, optogenetics, circuit development_ |
-
+<table>
+    <tr>
+        <td style="text-align: right; width: 20%">05/2016-Now:&nbsp;</td> 
+        <td> <a href="http://www.hoffmanlab.org">Hoffman Research Group</a>, UHN + Dept of Medical Biophysics & Computer Science @ UTSG</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Computational genomics research assistant</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Project 1</b>: Development of new features for both unsupervised and semi-supervised learning in the semi-automated genome annotation (SAGA) method Segway.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Project 2</b>: Development of a new Gaussian mixture model for Segway, allowing modeling of more complicated genomic signal distributions.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Project 3</b>: Development of a novel neural network (LSTM) method for SAGA.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Keywords</b>: <i>high-performance computing, statistics, machine learning, bioinformatics</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">09/2017-12/2017:&nbsp;</td>
+        <td><a href="http://mriscience.med.ubc.ca/">MRI Science Lab</a>, Dept of Medicine @ UBC</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Engineering Physics capstone student</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Development of a model for myelinated axons in MRI that takes into account the diffusion-mediated effects of water molecules in the brain.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Keywords</b>: <i>computational biophysics, numerical methods</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td style="text-align: right;">09/2016-05/2017:&nbsp;</td>
+        <td><a href="http://www.zoology.ubc.ca/~gordon/">Gordon Research Group</a>, Dept of Zoology @ UBC</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Engineering Physics capstone student</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Design, development & assembly of the STROBE (Sip-TRiggered Optogenetic Behavior Enclosure) system. The STROBE was created to study the use of optogenetic activation of specific reward or punishment neurons, in order to make flies learn to be more or less attracted to specific food sources.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Awarded the Eric Roenitz Memorial Prize for showing "considerable dedication to the capstone project" and "illustrating a high level of ingenuity."</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Keywords</b>: <i>embedded control systems, signal processing, optogenetics, circuit development</i></td>
+    </tr>
+</table>
 
 ### Teaching Assistantships
 
