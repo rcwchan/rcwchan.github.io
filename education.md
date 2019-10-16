@@ -30,6 +30,7 @@ permalink: /edu/
 
 #### Graduate (UTSG)
 
+* CSC 2541 AI and Ethics: Mathematical Foundations and Algorithms (Fall 2019)
 * CSC 2547 Topics in Statistical Learning Theory (Winter 2019)
 * CSC 2506 Probabilistic Learning and Reasoning (Winter 2019)
 * CSC 2515 Machine Learning and Data Mining (Fall 2018)
