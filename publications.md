@@ -15,7 +15,11 @@ As an engineering student, I developed the STROBE used in the following papers w
 * Pierre-Yves Musso, Pierre Junca, Meghan Jelen, Damian Feldman-Kiss, Han Zhang, **Rachel C. W. Chan**, Michael D. Gordon. [Closed-loop optogenetic activation of peripheral or central neurons modulates feeding in freely moving _Drosophila_](https://doi.org/10.7554/eLife.45636), eLife, Volume 8, 19 July 2019, Page e45636.
 
 ### Posters
-"Semi-supervised Learning in Segway." International Conference on Machine Learning (ICML), Workshop in Computational Biology (WCB). Long Beach, CA. 14--15 June 2019.
+* = presenter
+
+**Rachel C. W. Chan***, Mickael Mendez, Jeffrey A. Bilmes, Maxwell W. Libbrecht, Michael M. Hoffman; [Semi-supervised Learning in Segway](https://sites.google.com/view/icml-compbio-2019/accepted-papers), International Conference on Machine Learning (ICML), Workshop in Computational Biology, 14-15 June 2019, Long Beach, CA.
+
+Maxwell W. Libbrecht*, **Rachel C. W. Chan**, Michael M. Hoffman; Segmentation and genome annotation algorithms, Machine Learning in Computational Biology (MLCB), 13-14 Dec 2019, Vancouver, BC.
 
 ### Presentations
-"Semi-automated genome annotation using Gaussian mixture models and Segway." Canadian Undergraduate Computer Science Conference (CUCSC). Toronto, ON. 15--17 June 2017.
+Semi-automated genome annotation using Gaussian mixture models and Segway, Canadian Undergraduate Computer Science Conference (CUCSC), 15-17 June 2017, Toronto, ON.
