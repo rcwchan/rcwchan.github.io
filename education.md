@@ -20,10 +20,10 @@ permalink: /edu/
 <table>
     <tr>
         <td style="width: 100px; text-align: right;">[2018-Now]&nbsp;</td>
-        <td style="text-align: left;">MSc [Computer Science](https://web.cs.toronto.edu/graduate/msc-phd) - UTSG</td>
+        <td style="text-align: left;">MSc <a href="https://web.cs.toronto.edu/graduate/msc-phd">Computer Science</a> - UTSG</td>
     </tr>
         <td style="width: 100px; text-align: right;">[2013-2018]&nbsp;</td>
-        <td style="text-align: left;">BASc [Engineering Physics](http://www.engphys.ubc.ca/) with minor in Honours Mathematics - UBC</td> 
+        <td style="text-align: left;">BASc <a href="http://www.engphys.ubc.ca/">Engineering Physics</a> with minor in Honours Mathematics - UBC</td> 
 </table>
 
 ### Select Coursework
