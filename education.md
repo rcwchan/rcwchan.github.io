@@ -19,7 +19,7 @@ permalink: /edu/
 
 <table>
     <tr>
-        <td style="width: 100px; text-align: right;">[2018-Now]&nbsp;</td>
+        <td style="width: 100px; text-align: right;">[2018-2020]&nbsp;</td>
         <td style="text-align: left;">MSc <a href="https://web.cs.toronto.edu/graduate/msc-phd">Computer Science</a> - UTSG</td>
     </tr>
         <td style="width: 100px; text-align: right;">[2013-2018]&nbsp;</td>
