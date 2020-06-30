@@ -19,7 +19,7 @@ permalink: /exp/
 
 <table>
     <tr>
-        <td style="text-align: right; width: 20%">05/2016-Now:&nbsp;</td> 
+        <td style="text-align: right; width: 20%">05/2016-06/2020:&nbsp;</td> 
         <td> <a href="http://www.hoffmanlab.org">Hoffman Research Group</a>, UHN + Dept of Medical Biophysics & Computer Science @ UTSG</td>
     </tr>
     <tr>
