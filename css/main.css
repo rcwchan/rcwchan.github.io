@@ -27,11 +27,6 @@ footer {
     margin: 20px auto 15px;
     padding-top: 10px;
 }
-
-details[open] > summary:after {
-    color: white;
-}
-
 header {
     margin-top: 25px;
     margin-bottom: 10px;
