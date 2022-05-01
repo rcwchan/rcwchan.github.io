@@ -90,9 +90,9 @@ permalink: /edu/
 
 | | | 
 |:---|---:| 
+| NSERC Canada Graduate Scholarships--Master's | May 2019-May 2020 |
 | ICML Diversity & Inclusion Fellowship | May 2019 |
 | SGS Conference Grant | May 2019 |
-| NSERC Canada Graduate Scholarships--Master's | May 2019-May 2020 |
 | Eric Roenitz Memorial Prize | March 2018 |
 | Donald J. Evans Scholarship in Engineering | Nov 2017 |
 | Trek Excellence Scholarship | Sept 2017 |
