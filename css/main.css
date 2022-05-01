@@ -248,6 +248,6 @@ margin: unset;
     font-size: 12px;
 }
 
-summary::marker {
-  color: grey;
+details summary::marker {
+  color: white;
 }
