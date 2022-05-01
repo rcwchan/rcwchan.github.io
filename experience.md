@@ -76,6 +76,34 @@ permalink: /exp/
         <td>&nbsp;</td>
     </tr>
     <tr>
+        <td style="text-align: right;">02/2017-05/2018:&nbsp;</td>
+        <td>Keshet research group, Dept of Mathematics @ UBC</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Directed studies in Mathematics</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Used numerical methods to study properties of dynamical systems. Analyzed Turing-like reaction-diffusion systems in model organisms.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><b>Keywords</b>: <i>mathematical biology, numerical methods, reaction-diffusion systems</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
         <td style="text-align: right;">09/2017-12/2017:&nbsp;</td>
         <td><a href="http://mriscience.med.ubc.ca/">MRI Science Lab</a>, Dept of Medicine @ UBC</td>
     </tr>
