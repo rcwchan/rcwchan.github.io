@@ -34,10 +34,6 @@ permalink: /exp/
         <td></td>
         <td>Development of computer vision algorithms for perception in autonomous robotic systems.</td>
     </tr>
-    <tr>
-        <td></td>
-        <td>&nbsp;</td>
-    </tr>
 </table>
 
 ### Research Experience
