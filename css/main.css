@@ -28,7 +28,7 @@ footer {
     padding-top: 10px;
 }
 
-::marker {
+summary::marker {
   color:white;
 }
 
