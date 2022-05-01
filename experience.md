@@ -15,7 +15,32 @@ permalink: /exp/
     </tr>
 </table>
 
-### Research
+### Industry Experience
+
+<table>
+    <tr>
+        <td style="text-align: right; width: 20%">06/2020-Now:&nbsp;</td> 
+        <td> <a href="https://deepx.co.jp/g">DeepX, Inc.</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Robotics & computer vision engineer</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Development of computer vision algorithms for perception in autonomous robotic systems.</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+</table>
+
+### Research Experience
 
 <table>
     <tr>
