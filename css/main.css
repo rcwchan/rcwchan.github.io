@@ -248,6 +248,6 @@ margin: unset;
     font-size: 12px;
 }
 
-details summary::marker {
-  color: white;
+details details summary::-webkit-details-marker {
+  color:white;
 }
