@@ -6,6 +6,7 @@ layout: content
 
 From 2018-2020, I was a graduate student in the Department of Computer Science at the University of Toronto. I completed my MSc in March 2020. 
 I performed research on semi-supervised genome annotation methods in the <a href="https://hoffmanlab.org/">Hoffman lab</a> under the supervision of Prof. Michael Hoffman. 
+
 Since 2020, I have been working in Tokyo, Japan as a robotics & computer vision engineer at DeepX, Inc.
 
 My general research interests include (but are not limited to):
