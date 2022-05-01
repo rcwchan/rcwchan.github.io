@@ -77,7 +77,7 @@ permalink: /exp/
     </tr>
     <tr>
         <td style="text-align: right;">02/2017-05/2018:&nbsp;</td>
-        <td>Keshet research group, Dept of Mathematics @ UBC</td>
+        <td>Keshet Research Group, Dept of Mathematics @ UBC</td>
     </tr>
     <tr>
         <td></td>
