@@ -27,6 +27,11 @@ footer {
     margin: 20px auto 15px;
     padding-top: 10px;
 }
+
+::marker {
+  color:white;
+}
+
 header {
     margin-top: 25px;
     margin-bottom: 10px;
@@ -246,8 +251,4 @@ blockquote {
   border-left: unset;
 margin: unset;
     font-size: 12px;
-}
-
-summary::marker {
-  color:white;
 }
