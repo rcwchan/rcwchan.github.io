@@ -5,6 +5,7 @@ permalink: /pubs/
 ---
 
 ### Publications
+* Maxwell W. Libbrecht, **Rachel C. W. Chan**, and Michael M. Hoffman; [Segmentation and genome annotation algorithms for identifying chromatin state and other genomic patterns](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8516206/), PLoS Computational Biology, vol. 17, no. 10, e1009423, 2021.
 * **Rachel C. W. Chan**, Matthew McNeil, Eric G. Roberts, Mickaël Mendez,  Maxwell W. Libbrecht, Michael M. Hoffman; [Semi-supervised segmentation and genome annotation
 ](https://doi.org/10.1101/2020.01.30.926923), bioRxiv, 2020, 926923.
 * **Rachel C. W. Chan**, Maxwell W. Libbrecht, Eric G. Roberts, Jeffrey A. Bilmes, William Stafford Noble, Michael M. Hoffman; [Segway 2.0: Gaussian mixture models and minibatch training](https://doi.org/10.1093/bioinformatics/btx603), Bioinformatics, Volume 34, Issue 4, 15 February 2018, Pages 669--671.
