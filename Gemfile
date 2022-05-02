@@ -39,3 +39,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # generate sitemap
 gem 'jekyll-sitemap'
+
+gem 'webrick'
