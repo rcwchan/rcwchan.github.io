@@ -19,7 +19,7 @@ permalink: /exp/
 
 <table>
     <tr>
-        <td style="text-align: right; width: 20%">06/2020-Now:&nbsp;</td> 
+        <td style="text-align: right; width: 20%">06/2020-07/2022:&nbsp;</td> 
         <td> <a href="https://deepx.co.jp/g">DeepX, Inc.</a></td>
     </tr>
     <tr>
