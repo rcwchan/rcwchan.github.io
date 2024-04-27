@@ -10,12 +10,10 @@ I performed research on semi-supervised genome annotation methods in the <a href
 My general research interests include (but are not limited to):
 
 <ul>
-    <li>3D object recognition and classification</li>
-    <li>deep learning</li>
+    <li>2D/3D object detection & pose estimation</li>
+    <li>computer vision x machine learning for robot actuation</li>
     <li>statistical learning theory</li>
     <li>high-performance computing</li>
-    <li>dynamical systems</li>
-    <li>clever analytical solutions to partial differential equations</li>
 </ul>
 
 ### Contact
