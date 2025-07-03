@@ -4,17 +4,6 @@ title: "Experience"
 permalink: /exp/
 ---
 
-<table>
-    <tr>
-        <td style="text-align: right;">Legend:&nbsp;</td>
-        <td style="text-align: left;">UTSG = University of Toronto, St. George Campus</td>
-    </tr>
-    <tr>
-        <td></td>
-        <td style="text-align: left;">UBC = University of British Columbia, Vancouver Campus</td>
-    </tr>
-</table>
-
 ### Industry Experience
 
 <table>
@@ -57,6 +46,17 @@ permalink: /exp/
 </table>
 
 ### Research Experience
+
+<table>
+    <tr>
+        <td style="text-align: right;">Legend:&nbsp;</td>
+        <td style="text-align: left;">UTSG = University of Toronto, St. George Campus</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td style="text-align: left;">UBC = University of British Columbia, Vancouver Campus</td>
+    </tr>
+</table>
 
 <table>
     <tr>
