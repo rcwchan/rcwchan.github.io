@@ -10,13 +10,13 @@ I performed research on semi-supervised genome annotation methods in the <a href
 
 Since 2022, I have been working at Sony Research as a Computer Vision Engineer on vision-based deep learning for deformable object manipulation.
 
-My general research interests include (but are not limited to):
+My general interests include (but are not limited to):
 
 <ul>
-    <li>2D/3D object detection & pose estimation</li>
-    <li>computer vision x machine learning for robot actuation</li>
-    <li>statistical learning theory</li>
-    <li>high-performance computing</li>
+    <li>2D/3D object recognition</li>
+    <li>6dof pose estimation</li>
+    <li>vision-based deep learning for robotics</li>
+    <li>vision-language models</li>
 </ul>
 
 ### Contact
