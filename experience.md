@@ -36,7 +36,7 @@ permalink: /exp/
     </tr>
     <tr>
         <td style="text-align: right; width: 20%">06/2020-07/2022:&nbsp;</td> 
-        <td> <a href="https://deepx.co.jp/">DeepX, Inc. @ Tokyo, Japan</a></td>
+        <td> <a href="https://deepx.co.jp/">DeepX, Inc.</a> @ Tokyo, Japan</td>
     </tr>
     <tr>
         <td></td>
