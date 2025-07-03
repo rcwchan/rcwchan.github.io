@@ -19,7 +19,7 @@ permalink: /exp/
 
 <table>
     <tr>
-        <td style="text-align: right; width: 20%">06/2020-07/2022:&nbsp;</td> 
+        <td style="text-align: right; width: 20%">08/2022-Present:&nbsp;</td> 
         <td> <a href="https://research.sony/">Sony Research</a></td>
     </tr>
     <tr>
