@@ -24,7 +24,7 @@ permalink: /exp/
     </tr>
     <tr>
         <td></td>
-        <td>Computer vision engineer</td>
+        <td>Computer vision engineer II</td>
     </tr>
     <tr>
         <td></td>
@@ -32,7 +32,7 @@ permalink: /exp/
     </tr>
     <tr>
         <td></td>
-        <td>Development of vision-based deep learning models for deformable object manipulation.</td>
+        <td>Working on development of vision-based deep learning models for deformable object manipulation.</td>
     </tr>
     <tr>
         <td style="text-align: right; width: 20%">06/2020-07/2022:&nbsp;</td> 
@@ -48,7 +48,7 @@ permalink: /exp/
     </tr>
     <tr>
         <td></td>
-        <td>Development of computer vision algorithms for perception in autonomous robotic systems.</td>
+        <td>Worked on development of vision-based deep learning for scene comprehension in complex environments.</td>
     </tr>
 </table>
 
