@@ -2,7 +2,7 @@
 layout: content
 ---
 
-<img src="images/super_cool_whaleshark.jpg">
+<img src="images/profile_pic.jpg">
 I am a computer vision engineer with 5 years of experience in vision-based deep learning for real-world robotic manipulation and autonomous machine operation.
 
 From 2018-2020, I was a graduate student in the Department of Computer Science at the University of Toronto. I completed my MSc in March 2020. 
