@@ -56,6 +56,10 @@ permalink: /exp/
         <td></td>
         <td style="text-align: left;">UBC = University of British Columbia, Vancouver Campus</td>
     </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
 </table>
 
 <table>
