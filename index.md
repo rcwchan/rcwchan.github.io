@@ -21,7 +21,8 @@ My general interests include (but are not limited to):
 </ul>
 -->
 
-I'm a computer vision engineer with 5 years of experience leveraging vision-based deep learning to solve complex, real-world challenges in robotic manipulation and autonomous machine operation. My expertise spans a range of applications, from comprehending unstructured environments to precisely manipulating deformable objects.
+<!--I'm a computer vision engineer with 5 years of experience leveraging vision-based deep learning to solve complex, real-world challenges in robotic manipulation and autonomous machine operation. My expertise spans a range of applications, from comprehending unstructured environments to precisely manipulating deformable objects.-->
+I am a computer vision engineer with 5 years of experience in vision-based deep learning for real-world robotic manipulation and autonomous machine operation. I specialize in developing novel techniques for complex robotic manipulation and real-time object detection in dynamic environments.
 
 <!--I completed a BASc in Engineering Physics, which provided me with a strong interdisciplinary foundation in areas ranging from pure maths to electrical engineering. I then completed an MSc in Computer Science at the University of Toronto (2018-2020), where my research focused on machine learning with applications to computational genomics.-->
 
