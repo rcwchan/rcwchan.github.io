@@ -20,6 +20,22 @@ permalink: /exp/
 <table>
     <tr>
         <td style="text-align: right; width: 20%">06/2020-07/2022:&nbsp;</td> 
+        <td> <a href="https://research.sony/">Sony Research</a></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Computer vision engineer</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Development of vision-based deep learning models for deformable object manipulation.</td>
+    </tr>
+    <tr>
+        <td style="text-align: right; width: 20%">06/2020-07/2022:&nbsp;</td> 
         <td> <a href="https://deepx.co.jp/">DeepX, Inc.</a></td>
     </tr>
     <tr>
