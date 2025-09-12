@@ -26,7 +26,7 @@ I am a computer vision engineer with 5 years of experience in vision-based deep 
 
 <!--I completed a BASc in Engineering Physics, which provided me with a strong interdisciplinary foundation in areas ranging from pure maths to electrical engineering. I then completed an MSc in Computer Science at the University of Toronto (2018-2020), where my research focused on machine learning with applications to computational genomics.-->
 
-I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I researched machine learning with applications in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in complex environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object manipulation.
+I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I performed research on machine learning with applications in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in complex unstructured environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object manipulation.
 
 My general interests include:
 
@@ -34,7 +34,7 @@ My general interests include:
     <li><b>2D/3D Object Recognition</b>: Enabling machines to accurately identify and localize objects in their environment.</li>
     <li><b>6-DoF Pose Estimation</b>: Determining an object's precise position and orientation in 3D space.</li>
     <li><b>Vision-Based Deep Learning for Robotics</b>: Developing intelligent vision systems that allow robots to perceive and interact with the real world.</li>
-    <li><b>Vision-Language Models</b>: Exploring the powerful synergy between visual perception and natural language understanding.</li>
+    <!--<li><b>Vision-Language Models</b>: Exploring the powerful synergy between visual perception and natural language understanding.</li>-->
 </ul>
 <!--I'm particularly interested in 2D/3D object recognition, 6-DoF pose estimation, and the exciting convergence of vision-language models with robotics.-->
 
