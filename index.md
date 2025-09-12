@@ -26,7 +26,7 @@ I am a computer vision engineer with 5 years of experience in vision-based deep 
 
 <!--I completed a BASc in Engineering Physics, which provided me with a strong interdisciplinary foundation in areas ranging from pure maths to electrical engineering. I then completed an MSc in Computer Science at the University of Toronto (2018-2020), where my research focused on machine learning with applications to computational genomics.-->
 
-I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I performed research on machine learning with applications in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in complex unstructured environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object manipulation.
+I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I performed research on semi-supervised machine learning in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in complex unstructured environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object manipulation.
 
 My general interests include:
 
