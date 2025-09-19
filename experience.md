@@ -21,7 +21,7 @@ permalink: /exp/
     </tr>
     <tr>
         <td></td>
-        <td>Working on development of vision-based deep learning models for deformable object manipulation.</td>
+        <td>Working on development of vision-based deep learning models for deformable object perception and manipulation.</td>
     </tr>
     <tr>
         <td></td>
