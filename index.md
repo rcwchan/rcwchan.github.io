@@ -28,9 +28,9 @@ I completed my MSc in Computer Science from the University of Toronto (2018-2020
 My general interests include:
 
 <ul>
-    <li><b>2D/3D Object Recognition</b>: Enabling machines to accurately identify and localize objects in their environment.</li>
+    <li><b>2D/3D Object Recognition</b>: Accurately identifying and localizing objects in their environment.</li>
     <li><b>6-DoF Pose Estimation</b>: Determining an object's precise position and orientation in 3D space.</li>
-    <li><b>Vision-Based Deep Learning for Robotics</b>: Developing intelligent vision systems that allow robots to perceive and interact with the real world.</li>
+    <li><b>Image Restoration and Super-Resolution</b>: Developing deep learning models for image restoration and high-resolution scaling.</li>
 </ul>
 
 ### Contact
