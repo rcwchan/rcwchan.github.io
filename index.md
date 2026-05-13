@@ -21,7 +21,7 @@ My general interests include (but are not limited to):
 </ul>
 -->
 
-I am a computer vision engineer with over 5 years of experience in vision-based deep learning for real-world robotic manipulation and autonomous machine operation. I specialize in developing novel techniques for 3D perception in dynamic environments.
+I am a computer vision and machine learning engineer with over five years of experience developing real-world perception systems, with a background spanning both 2D and 3D vision, classical computer vision, and deep learning. I specialize in developing novel techniques for 3D perception in dynamic environments.
 
 I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I performed research on semi-supervised machine learning in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in complex unstructured environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object perception and manipulation.
 
