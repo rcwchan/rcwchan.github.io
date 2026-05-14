@@ -2,7 +2,7 @@
 layout: content
 ---
 
-<img src="images/1750776178561.jpg">
+<img src="images/IMG_1446.jpeg">
 <!--I am a computer vision engineer with 5 years of experience in vision-based deep learning for real-world robotic manipulation and autonomous machine operation.-->
 
 <!--From 2018-2020, I was a graduate student in the Department of Computer Science at the University of Toronto, where I completed my MSc in March 2020. My research was focused on machine learning with applications in computational genomics. -->
