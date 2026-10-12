@@ -21,17 +21,17 @@ My general interests include (but are not limited to):
 </ul>
 -->
 
-I am a computer vision and machine learning engineer with over five years of experience developing real-world perception systems, with a background spanning both 2D and 3D vision, classical computer vision, and deep learning. I specialize in developing novel techniques for 3D perception in dynamic environments.
+I am a computer vision and machine learning engineer with over five years of experience developing real-world perception systems, with a background spanning both 2D and 3D vision, classical computer vision, and deep learning. I specialize in developing novel techniques for robotic perception in dynamic environments.
 
-I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I performed research on semi-supervised machine learning in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in complex unstructured environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object perception and manipulation.
+I completed my MSc in Computer Science from the University of Toronto (2018-2020), where I performed research on semi-supervised machine learning in computational genomics. From 2020 to 2022, I worked at DeepX, Inc., developing vision-based deep learning for scene comprehension in unstructured outdoor environments. Currently, at Sony Research since 2022, I focus on vision-based deep learning for deformable object perception and manipulation.
 
-My general interests include:
+<!--My general interests include:
 
 <ul>
     <li><b>2D/3D Object Recognition</b>: Accurately identifying and localizing objects in their environment.</li>
     <li><b>6-DoF Pose Estimation</b>: Determining an object's precise position and orientation in 3D space.</li>
-    <li><b>Image Restoration and Super-Resolution</b>: Developing deep learning models for image restoration and high-resolution scaling.</li>
-</ul>
+    <li><b>Vision-Based Deep Learning for Robotics</b>: Developing intelligent vision-based systems that allow robots to perceive and interact with the real world.</li>
+</ul>-->
 
 ### Contact
 
